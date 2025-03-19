@@ -39,8 +39,8 @@ Paper link：soon
 Overall framework:
 ![image](https://github.com/ACMISLab/StarWhisper-Pulsar/blob/main/images/framework_v2.png)
 1) Download the train and test dataset [expand task dataset](https://pan.baidu.com/s/1KjD38mpLVhXfck9U4VslBA?pwd=q7n1)<br>
-2) Download some of the best model weights mentioned in the paper. If you need any other model weights mentioned in the paper, please feel free to contact us. [some_best_result_mode](https://huggingface.co/zfy1041264242/StarWhisper-Pulsar/tree/main/some_best_result_mode)<br>
-3) Download the experimental results records mentioned in the paper. [experiment_infer_result](https://huggingface.co/zfy1041264242/StarWhisper-Pulsar/tree/main/experiment_infer_result)<br>
+2) Download some of the best model weights mentioned in the paper. If you need any other model weights mentioned in the paper, please feel free to contact us. [some_best_result_mode](https://pan.baidu.com/s/1R4q4mV8KPgBMp_Ileu5M1w?pwd=ghdr)<br>
+3) Download the experimental results records mentioned in the paper. [experiment_infer_result](https://pan.baidu.com/s/1R4q4mV8KPgBMp_Ileu5M1w?pwd=ghdr)<br>
 
 
 ## 💡 Prompt
