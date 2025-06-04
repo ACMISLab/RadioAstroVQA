@@ -91,5 +91,5 @@ Fuyong Zhao: gs.fyzhao24@gzu.edu.cn
 Yuyang Li: liyuyang22@mails.ucas.ac.cn
 
 ## License
-The AstroBench dataset is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/).
+The dataset is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/).
 
