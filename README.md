@@ -1,6 +1,6 @@
-<h1 align="center"> <img src="https://github.com/ACMISLab/StarWhisper-Pulsar/blob/main/images/StarRipple.png" alt="StarWhisper-Pulsar Logo" style="width: 100px; height: auto; vertical-align: middle; margin-right: 5px;"> StarRipple </h1>
+<h1 align="center"> <img src="https://github.com/ACMISLab/StarWhisper-Pulsar/blob/main/images/StarRipple.png" alt="StarWhisper-Pulsar Logo" style="width: 100px; height: auto; vertical-align: middle; margin-right: 5px;"> RadioAstroVQA </h1>
 
-This is the official repository of **"StarRipple"**.
+This is the official repository of **"RadioAstroVQA"**.
 
 ## 🆕 News
 - \[**March 2025**\] We have released the second version 2.0, we have built additional tasks such as solar radio spectrum classification, radio galaxy morphology classification, and the first VQA fine-tuning dataset in the radio domain.
