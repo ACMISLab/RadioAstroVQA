@@ -65,13 +65,10 @@ We fine-tuned all layers of the MLLM, optimizing both its textual and visual ele
         <img src="https://github.com/ACMISLab/StarWhisper-Pulsar/blob/main/images/ExperimentResults2.png" alt="ExperimentResults2" style="width: 80%; height: auto;">
     </div>
     <div style="flex: 0 0 48%; margin-bottom: 20px;">
-        <img src="https://github.com/ACMISLab/StarWhisper-Pulsar/blob/main/images/ExperimentResults3.jpeg" alt="ExperimentResults3" style="width: 80%; height: auto;">
+        <img src="https://github.com/ACMISLab/StarWhisper-Pulsar/blob/main/images/ExperimentResults3.png" alt="ExperimentResults3" style="width: 80%; height: auto;">
     </div>
     <div style="flex: 0 0 48%; margin-bottom: 20px;">
-        <img src="https://github.com/ACMISLab/StarWhisper-Pulsar/blob/main/images/ExperimentResults4.jpeg" alt="ExperimentResults4" style="width: 80%; height: auto;">
-    </div>
-    <div style="flex: 0 0 48%; margin-bottom: 20px;">
-        <img src="https://github.com/ACMISLab/StarWhisper-Pulsar/blob/main/images/ExperimentResults5.jpeg" alt="ExperimentResults5" style="width: 80%; height: auto;">
+        <img src="https://github.com/ACMISLab/StarWhisper-Pulsar/blob/main/images/ExperimentResults4.png" alt="ExperimentResults4" style="width: 80%; height: auto;">
     </div>
 </div>
 
