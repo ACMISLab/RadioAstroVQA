@@ -27,7 +27,7 @@ At the same time, you will need to install the corresponding PyTorch environment
 ### V1 version
 Paper link：[Pulsar Candidate Classification with Multimodal Large Language Models](https://openreview.net/pdf?id=8SKgWpZiDL)<br>
 Overall framework:
-![image](https://github.com/ACMISLab/StarWhisper-Pulsar/blob/main/images/framework.png)
+![image](https://github.com/ACMISLab/RadioAstroVQA/blob/main/images/framework.png)
 
 Due to the large size of some weights, experimental data, and inference results, we have placed the complete experimental content on Hugging Face storage. It can be accessed through the following link:
 1) Download the train and test dataset [train_and test dataset](https://huggingface.co/zfy1041264242/StarWhisper-Pulsar/tree/main/train_test_data)<br>
@@ -37,7 +37,7 @@ Due to the large size of some weights, experimental data, and inference results,
 ### V2 version
 Paper link：soon
 Overall framework:
-![image](https://github.com/ACMISLab/StarWhisper-Pulsar/blob/main/images/framework_v2.png)
+![image](https://github.com/ACMISLab/RadioAstroVQA/blob/main/images/framework_v2.png)
 1) Download the train and test dataset [expand task dataset](https://pan.baidu.com/s/1KjD38mpLVhXfck9U4VslBA?pwd=q7n1)<br>
 2) Download some of the best model weights mentioned in the paper. If you need any other model weights mentioned in the paper, please feel free to contact us. [some_best_result_mode](https://pan.baidu.com/s/1R4q4mV8KPgBMp_Ileu5M1w?pwd=ghdr)<br>
 3) Download the experimental results records mentioned in the paper. [experiment_infer_result](https://pan.baidu.com/s/1R4q4mV8KPgBMp_Ileu5M1w?pwd=ghdr)<br>
@@ -50,7 +50,7 @@ Below are the prompts we use in traditional task.
 
 Below are the prompts we use in VQA task.
 
-<img src="https://github.com/ACMISLab/StarWhisper-Pulsar/blob/main/images/vqa_instructions.png" alt="VQA Instructions" style="width: 700px; height: auto; vertical-align: middle; margin-right: 5px;">
+<img src="https://github.com/ACMISLab/RadioAstroVQA/blob/main/images/vqa_instructions.png" alt="VQA Instructions" style="width: 700px; height: auto; vertical-align: middle; margin-right: 5px;">
 
 Sure, you can also try your own designed prompts!
 
@@ -59,16 +59,16 @@ We fine-tuned all layers of the MLLM, optimizing both its textual and visual ele
 
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
     <div style="flex: 0 0 48%; margin-bottom: 20px;">
-        <img src="https://github.com/ACMISLab/StarWhisper-Pulsar/blob/main/images/ExperimentResults1.png" alt="ExperimentResults1" style="width: 80%; height: auto;">
+        <img src="https://github.com/ACMISLab/RadioAstroVQA/blob/main/images/ExperimentResults1.png" alt="ExperimentResults1" style="width: 80%; height: auto;">
     </div>
     <div style="flex: 0 0 48%; margin-bottom: 20px;">
-        <img src="https://github.com/ACMISLab/StarWhisper-Pulsar/blob/main/images/ExperimentResults2.png" alt="ExperimentResults2" style="width: 80%; height: auto;">
+        <img src="https://github.com/ACMISLab/RadioAstroVQA/blob/main/images/ExperimentResults2.png" alt="ExperimentResults2" style="width: 80%; height: auto;">
     </div>
     <div style="flex: 0 0 48%; margin-bottom: 20px;">
-        <img src="https://github.com/ACMISLab/StarWhisper-Pulsar/blob/main/images/ExperimentResults3.png" alt="ExperimentResults3" style="width: 80%; height: auto;">
+        <img src="https://github.com/ACMISLab/RadioAstroVQA/blob/main/images/ExperimentResults3.png" alt="ExperimentResults3" style="width: 80%; height: auto;">
     </div>
     <div style="flex: 0 0 48%; margin-bottom: 20px;">
-        <img src="https://github.com/ACMISLab/StarWhisper-Pulsar/blob/main/images/ExperimentResults4.png" alt="ExperimentResults4" style="width: 80%; height: auto;">
+        <img src="https://github.com/ACMISLab/RadioAstroVQA/blob/main/images/ExperimentResults4.png" alt="ExperimentResults4" style="width: 80%; height: auto;">
     </div>
 </div>
 
